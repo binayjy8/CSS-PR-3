@@ -11,4 +11,5 @@ div {
     border: 2px solid black;
     display: flex;
     justify-content: flex-start;
+    border-radius: 5px;
 }
