@@ -1,0 +1,14 @@
+#container {
+    height: 400px;
+    width: 400px;
+    background-color: gray;
+    border: 2px solid rgb(71, 197, 222);
+}
+
+div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+}
